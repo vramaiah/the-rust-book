@@ -36,7 +36,6 @@ fn to_pig_latin(s: &String) -> String {
         }
     }
     
-    pig_str.pop();
     pig_str
 }
 
